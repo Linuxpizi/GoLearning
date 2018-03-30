@@ -1,6 +1,6 @@
 # GoLearning
 
-# 建立这个repo的目的是系统的学习goalng的基础知识
+# 建立这个repo的目的是系统的学习golang的基础知识
 > 学习内容的来源是(go官网)[http://www.golang.org] 和 (go论坛)[https://forum.golangbridge.org/]
 
 ----------------------
