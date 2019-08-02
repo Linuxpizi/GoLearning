@@ -148,5 +148,5 @@ if err := session.Setenv("LC_USR_DIR", "/usr"); err != nil {
 	return err
 }
  ```
-[原文链接](https://blog.ralch.com/tutorial/golang-ssh-connection/)
-[ssh-agent and ssh-add](http://blog.joncairns.com/2013/12/understanding-ssh-agent-and-ssh-add/)
+[1. 原文链接](https://blog.ralch.com/tutorial/golang-ssh-connection/)  
+[2. ssh-agent and ssh-add](http://blog.joncairns.com/2013/12/understanding-ssh-agent-and-ssh-add/)
