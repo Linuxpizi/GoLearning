@@ -142,7 +142,7 @@ Then we can execute the command on the remote machine by using session.Run funct
 
 ```golang
 err = session.Run("ls -l $LC_USR_DIR")
-#If we want to transfer some environment variable to the remote machine, we should use session.Setenv function to do that.
+// If we want to transfer some environment variable to the remote machine, we should use session.Setenv function to do that.
 
 if err := session.Setenv("LC_USR_DIR", "/usr"); err != nil {
 	return err
